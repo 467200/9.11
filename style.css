@@ -1,0 +1,22 @@
+.container {
+    padding-top: 40px;
+    background-color:rgb(129, 183, 250) ; 
+    width: 900px;
+    height: 400px;
+    border: radius 20px;
+    margin-top: 130px;
+}
+.card-header {
+    background-color:rgb(193, 221, 255);
+    font-style: italic;
+    font-size: larger;
+}
+.card-body {
+    background-color:rgb(230, 246, 249);
+}
+.col {
+    font-style: oblique;
+    font-size: label;
+    color:rgb(50, 50, 132);
+    height: 25ch; 
+}
